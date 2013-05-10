@@ -1,0 +1,38 @@
+ID: 4
+Name: MeCodingThis_Bis
+Type: GIF
+Address: 127.0.0.1
+Port: 12242
+Protocol: TCP_PULL
+IPS: 11
+./images/rabbit/frame_0.gif
+./images/rabbit/frame_1.gif
+./images/rabbit/frame_2.gif
+./images/rabbit/frame_3.gif
+./images/rabbit/frame_4.gif
+./images/rabbit/frame_5.gif
+./images/rabbit/frame_6.gif
+./images/rabbit/frame_7.gif
+./images/rabbit/frame_8.gif
+./images/rabbit/frame_9.gif
+./images/rabbit/frame_10.gif
+./images/rabbit/frame_11.gif
+./images/rabbit/frame_12.gif
+./images/rabbit/frame_13.gif
+./images/rabbit/frame_14.gif
+./images/rabbit/frame_15.gif
+./images/rabbit/frame_16.gif
+./images/rabbit/frame_17.gif
+./images/rabbit/frame_18.gif
+./images/rabbit/frame_19.gif
+./images/rabbit/frame_20.gif
+./images/rabbit/frame_21.gif
+./images/rabbit/frame_22.gif
+./images/rabbit/frame_23.gif
+./images/rabbit/frame_24.gif
+./images/rabbit/frame_25.gif
+./images/rabbit/frame_26.gif
+./images/rabbit/frame_27.gif
+./images/rabbit/frame_28.gif
+./images/rabbit/frame_29.gif
+./images/rabbit/frame_30.gif

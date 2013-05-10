@@ -1,0 +1,27 @@
+ID: 92
+Name: Valid1
+Type: JPEG
+Address: 225.6.6.42
+Port: 9078
+Protocol: MCAST_PUSH
+IPS: 18
+./images/Stream1/Img0001.JPEG
+./images/Stream1/Img0002.JPEG
+./images/Stream1/Img0003.JPEG
+./images/Stream1/Img0004.JPEG
+./images/Stream1/Img0005.JPEG
+./images/Stream1/Img0006.JPEG
+./images/Stream1/Img0007.JPEG
+./images/Stream1/Img0008.JPEG
+./images/Stream1/Img0009.JPEG
+./images/Stream1/Img0010.JPEG
+./images/Stream1/Img0011.JPEG
+./images/Stream1/Img0012.JPEG
+./images/Stream1/Img0013.JPEG
+./images/Stream1/Img0014.JPEG
+./images/Stream1/Img0015.JPEG
+./images/Stream1/Img0016.JPEG
+./images/Stream1/Img0017.JPEG
+./images/Stream1/Img0018.JPEG
+./images/Stream1/Img0019.JPEG
+./images/Stream1/Img0020.JPEG

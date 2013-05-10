@@ -1,0 +1,17 @@
+ID: 92
+Name: Valid2
+Type: JPEG
+Address: 127.0.0.1
+Port: 9078
+Protocol: UDP_PUSH
+IPS: 3
+./images/Stream2/1.jpg
+./images/Stream2/2.jpg
+./images/Stream2/3.jpg
+./images/Stream2/4.jpg
+./images/Stream2/5.jpg
+./images/Stream2/6.jpg
+./images/Stream2/7.jpg
+./images/Stream2/8.jpg
+./images/Stream2/9.jpg
+./images/Stream2/10.jpg

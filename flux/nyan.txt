@@ -1,0 +1,19 @@
+ID: 3
+Name: FrenchNyan
+Type: GIF
+Address: 127.0.0.1
+Port: 8042
+Protocol: TCP_PUSH
+IPS: 11
+./images/nyan/frame_0.gif
+./images/nyan/frame_1.gif
+./images/nyan/frame_2.gif
+./images/nyan/frame_3.gif
+./images/nyan/frame_4.gif
+./images/nyan/frame_5.gif
+./images/nyan/frame_6.gif
+./images/nyan/frame_7.gif
+./images/nyan/frame_8.gif
+./images/nyan/frame_9.gif
+./images/nyan/frame_10.gif
+./images/nyan/frame_11.gif

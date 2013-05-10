@@ -1,0 +1,12 @@
+ID: 9
+Name: Dummy2
+Type: BMP
+Address: 225.100.110.12
+Port: 11111
+Protocol: MCAST_PUSH
+IPS: 0.5
+./images/img1.bmp
+./images/img2.bmp
+./images/img3.bmp
+./images/img4.bmp
+./images/img5.bmp

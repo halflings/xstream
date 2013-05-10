@@ -1,0 +1,16 @@
+./flux/scutustyle.txt
+./flux/ghostbuster.txt
+./flux/nyan.txt
+./flux/crazycoder.txt
+./flux/rabbit.txt
+./flux/magnettroll.txt
+./flux/rickroll.txt
+./flux/landscape.txt
+./flux/flux1.txt
+./flux/flux3.txt
+./flux/flux4.txt
+./flux/flux5.txt
+./flux/flux6.txt
+./flux/valid1.txt
+./flux/valid2.txt
+./flux/valid3.txt

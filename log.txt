@@ -1,0 +1,1632 @@
+
+            ///////////////////////////
+            Date : lundi 14. janvier 2013 | Time: 17:25:49
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : lundi 14. janvier 2013 | Time: 17:25:56
+             ///////////////////////////
+
+[17:25:58] #MainServer : The flux have been imported and the catalogue generated !
+--------------------
+[17:25:58] #MainServer : Hooray ! Server succesfuly created at 127.0.0.1:4242
+--------------------
+ ~~~~~~ 
+
+            ///////////////////////////
+            Date : mardi 22. janvier 2013 | Time: 22:58:00
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : vendredi 25. janvier 2013 | Time: 11:29:40
+             ///////////////////////////
+
+[11:29:41] #MainServer : The flux have been imported and the catalogue generated !
+--------------------
+[11:29:41] #MainServer : Hooray ! Server succesfuly created at 127.0.0.1:4242
+--------------------
+[11:29:56] #MainServer : New client connected to the server. Address : 127.0.0.1:36034
+--------------------
+[11:30:55] #MainServer : Couldn't transmit data to 127.0.0.1:36034. Shutting down.
+--------------------
+[11:30:55] #MainServer : MainServer connection with 127.0.0.1:36034 ended.
+--------------------
+[11:31:50] #UDP_PULL(id=1) : Couldn't send image 46 to client 127.0.0.1:36145. 
+
+--------------------
+[11:31:50] #TCP_PULL(id=4) : TCP connection with 127.0.0.1:48744 ended.
+--------------------
+[11:31:50] #UDP_PUSH(id=2) : Couldn't send image 31 to client 127.0.0.1. 
+
+--------------------
+[11:31:50] #TCP_PUSH(id=3) : TCP connection with 127.0.0.1:53550 ended.
+--------------------
+[11:31:50] #UDP_PUSH(id=6) : Couldn't send image 24 to client 127.0.0.1. 
+
+--------------------
+ ~~~~~~ 
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 10:24:32
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 10:25:04
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 10:29:02
+             ///////////////////////////
+
+[10:29:04] #MainServer : The flux have been imported and the catalogue generated !
+--------------------
+[10:29:04] #MainServer : Hooray ! Server succesfuly created at 127.0.0.1:4242
+--------------------
+[10:29:12] #MainServer : New client connected to the server. Address : 127.0.0.1:58478
+--------------------
+[10:29:24] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( START 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:25] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:25] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:26] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:26] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:27] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:27] #MainServer : Couldn't transmit data to 127.0.0.1:58478. Shutting down.
+--------------------
+[10:29:27] #MainServer : MainServer connection with 127.0.0.1:58478 ended.
+--------------------
+[10:29:28] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:28] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:29] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:30] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:30] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:31] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:32] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:32] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:33] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:33] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:34] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:35] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:36] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:36] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:37] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:37] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:37] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:38] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:39] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:39] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:40] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:41] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:41] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:42] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:42] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:42] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:43] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:44] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:44] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:45] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:45] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:46] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:46] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:47] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:47] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:48] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:48] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:49] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:49] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:49] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:50] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:51] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:52] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:52] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:53] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:53] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:54] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:55] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:55] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:56] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:57] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:58] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:58] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:59] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:29:59] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:00] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:00] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:01] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:02] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:02] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:02] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:03] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:04] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:05] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:05] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:06] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:07] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:07] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:08] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:09] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:09] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:10] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:11] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:12] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:12] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:13] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:13] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:14] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:15] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:15] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:16] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:17] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:18] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:18] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:19] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:19] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:20] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:20] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:21] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:21] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:22] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:22] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:23] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:24] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:24] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:25] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:26] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:27] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:28] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:29] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:29] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:30] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:30] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:31] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:32] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:32] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:33] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:34] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:34] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:35] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( ALIVE 10 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:35] #UDP_PULL(id=7) : Couldn't send image 11 to client 127.0.0.1:39279. 
+
+--------------------
+[10:30:35] #TCP_PUSH(id=3) : TCP connection with 127.0.0.1:37404 ended.
+--------------------
+[10:30:35] #TCP_PULL(id=11) : TCP connection with 127.0.0.1:56658 ended.
+--------------------
+[10:30:35] #UDP_PUSH(id=6) : Couldn't send image 14 to client 127.0.0.1. 
+
+--------------------
+[10:30:36] #UDP_PUSH(id=2) : Couldn't send image 119 to client 127.0.0.1. 
+
+--------------------
+[10:30:36] #UDP_PUSH(id=10) : The client 127.0.0.1:54235 sent a first query ( END 
+
+ ) that couldn't be interpreted
+--------------------
+[10:30:36] #TCP_PUSH(id=8) : TCP connection with 127.0.0.1:36173 ended.
+--------------------
+ ~~~~~~ 
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 10:51:13
+             ///////////////////////////
+
+[10:51:14] #MainServer : The flux have been imported and the catalogue generated !
+--------------------
+[10:51:14] #MainServer : Hooray ! Server succesfuly created at 127.0.0.1:4242
+--------------------
+[10:51:28] #MainServer : New client connected to the server. Address : 127.0.0.1:58734
+--------------------
+[10:51:30] #MainServer : Couldn't transmit data to 127.0.0.1:58734. Shutting down.
+--------------------
+[10:51:30] #MainServer : MainServer connection with 127.0.0.1:58734 ended.
+--------------------
+[10:53:18] #UDP_PULL(id=15) : Couldn't send image 133 to client 127.0.0.1:35565. 
+
+--------------------
+[10:53:18] #TCP_PULL(id=4) : TCP connection with 127.0.0.1:52338 ended.
+--------------------
+[10:53:18] #UDP_PUSH(id=6) : Couldn't send image 53 to client 127.0.0.1. 
+
+--------------------
+[10:53:18] #TCP_PUSH(id=3) : TCP connection with 127.0.0.1:37660 ended.
+--------------------
+[10:53:18] #UDP_PUSH(id=2) : Couldn't send image 38 to client 127.0.0.1. 
+
+--------------------
+[10:53:26] #MainServer : New client connected to the server. Address : 127.0.0.1:58741
+--------------------
+[10:53:48] #MainServer : Couldn't transmit data to 127.0.0.1:58741. Shutting down.
+--------------------
+[10:53:48] #MainServer : MainServer connection with 127.0.0.1:58741 ended.
+--------------------
+[10:54:03] #TCP_PULL(id=4) : TCP connection with 127.0.0.1:52345 ended.
+--------------------
+[10:54:03] #TCP_PUSH(id=3) : TCP connection with 127.0.0.1:37667 ended.
+--------------------
+[10:54:03] #UDP_PUSH(id=6) : Couldn't send image 45 to client 127.0.0.1. 
+
+--------------------
+[10:54:03] #UDP_PUSH(id=2) : Couldn't send image 2 to client 127.0.0.1. 
+
+--------------------
+ ~~~~~~ 
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 13:17:46
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 13:21:20
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 13:22:50
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 13:25:44
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:19:43
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:20:00
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:20:28
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:21:55
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:22:35
+             ///////////////////////////
+
+[15:22:36] #MainServer : The flux have been imported and the catalogue generated !
+--------------------
+[15:22:36] #MainServer : Hooray ! Server succesfuly created at 127.0.0.1:4242
+--------------------
+[15:22:36] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 0
+7941
+1024
+512
+????K???9|???GF4??Q?/?y????U?????U?Bh?r?+L??C(??I?2M5?3?jn>S?iW<???????w???5????.?W???~n???!?K\????F???O?LV:??"Pj#}S?r??V???4??4?)???o_??????G>??#E-????O
+--------------------
+[15:22:36] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 1
+7302
+0
+512
+????
+--------------------
+[15:22:36] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 2
+7742
+0
+512
+????
+--------------------
+[15:22:36] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 3
+7893
+0
+512
+????
+--------------------
+[15:22:36] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 4
+7264
+0
+512
+????
+--------------------
+[15:22:36] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 5
+8105
+0
+512
+????
+--------------------
+[15:22:36] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 6
+8589
+0
+512
+????
+--------------------
+[15:22:37] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 7
+8288
+0
+512
+????
+--------------------
+[15:22:37] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 8
+7988
+0
+512
+????
+--------------------
+[15:22:37] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 9
+8132
+0
+512
+????
+--------------------
+[15:22:37] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 10
+7855
+0
+512
+????
+--------------------
+[15:22:37] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 11
+7937
+0
+512
+????
+--------------------
+[15:22:37] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 12
+7907
+0
+512
+????
+--------------------
+[15:22:37] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 13
+7771
+0
+512
+????
+--------------------
+[15:22:37] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 14
+7649
+0
+512
+????
+--------------------
+[15:22:38] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 15
+8050
+0
+512
+????
+--------------------
+[15:22:38] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 16
+7458
+0
+512
+????
+--------------------
+[15:22:38] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 17
+7787
+0
+512
+????
+--------------------
+[15:22:38] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 18
+7824
+0
+512
+????
+--------------------
+[15:22:38] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 19
+7741
+0
+512
+????
+--------------------
+[15:22:38] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 0
+7941
+0
+512
+????
+--------------------
+[15:22:38] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 1
+7302
+0
+512
+????
+--------------------
+[15:22:38] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 2
+7742
+0
+512
+????
+--------------------
+[15:22:39] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 2
+7742
+2560
+512
+M?x??
+?????#?3u??v???zM?[J~???=?F??:;?;`8?
+--------------------
+[15:22:39] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 3
+7893
+0
+512
+????
+--------------------
+[15:22:39] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 4
+7264
+0
+512
+????
+--------------------
+[15:22:39] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 5
+8105
+0
+512
+????
+--------------------
+[15:22:39] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 6
+8589
+0
+512
+????
+--------------------
+[15:22:39] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 7
+8288
+0
+512
+????
+--------------------
+[15:22:39] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 8
+7988
+0
+512
+????
+--------------------
+[15:22:39] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 9
+8132
+0
+512
+????
+--------------------
+[15:22:40] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 10
+7855
+0
+512
+????
+--------------------
+[15:22:40] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 11
+7937
+0
+512
+????
+--------------------
+[15:22:40] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 12
+7907
+0
+512
+????
+--------------------
+[15:22:40] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 13
+7771
+0
+512
+????
+--------------------
+[15:22:40] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 14
+7649
+0
+512
+????
+--------------------
+[15:22:40] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 15
+8050
+0
+512
+????
+--------------------
+[15:22:40] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 15
+8050
+2560
+512
+R?dq@?/$????????n9????"??5X???a?W????[??BF?�?
+--------------------
+[15:22:40] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 16
+7458
+0
+512
+????
+--------------------
+[15:22:40] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 17
+7787
+0
+512
+????
+--------------------
+[15:22:41] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 18
+7824
+0
+512
+????
+--------------------
+[15:22:41] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 19
+7741
+0
+512
+????
+--------------------
+[15:22:41] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 0
+7941
+0
+512
+????
+--------------------
+[15:22:41] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 1
+7302
+0
+512
+????
+--------------------
+[15:22:41] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 2
+7742
+0
+512
+????
+--------------------
+[15:22:41] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 3
+7893
+0
+512
+????
+--------------------
+[15:22:41] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 4
+7264
+0
+512
+????
+--------------------
+[15:22:41] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 5
+8105
+0
+512
+????
+--------------------
+[15:22:42] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 6
+8589
+0
+512
+????
+--------------------
+[15:22:42] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 7
+8288
+0
+512
+????
+--------------------
+[15:22:42] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 8
+7988
+0
+512
+????
+--------------------
+[15:22:42] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 9
+8132
+0
+512
+????
+--------------------
+[15:22:42] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 10
+7855
+0
+512
+????
+--------------------
+[15:22:42] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 11
+7937
+0
+512
+????
+--------------------
+[15:22:42] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 12
+7907
+0
+512
+????
+--------------------
+[15:22:42] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 13
+7771
+0
+512
+????
+--------------------
+[15:22:43] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 14
+7649
+0
+512
+????
+--------------------
+[15:22:43] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 15
+8050
+0
+512
+????
+--------------------
+[15:22:43] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 16
+7458
+0
+512
+????
+--------------------
+[15:22:43] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 17
+7787
+0
+512
+????
+--------------------
+[15:22:43] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 18
+7824
+0
+512
+????
+--------------------
+[15:22:43] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 19
+7741
+0
+512
+????
+--------------------
+[15:22:43] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 0
+7941
+0
+512
+????
+--------------------
+[15:22:43] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 1
+7302
+0
+512
+????
+--------------------
+[15:22:44] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 2
+7742
+0
+512
+????
+--------------------
+[15:22:44] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 3
+7893
+0
+512
+????
+--------------------
+[15:22:44] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 4
+7264
+0
+512
+????
+--------------------
+[15:22:44] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 5
+8105
+0
+512
+????
+--------------------
+[15:22:44] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 6
+8589
+0
+512
+????
+--------------------
+[15:22:44] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 7
+8288
+0
+512
+????
+--------------------
+[15:22:44] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 8
+7988
+0
+512
+????
+--------------------
+[15:22:44] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 9
+8132
+0
+512
+????
+--------------------
+[15:22:45] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 10
+7855
+0
+512
+????
+--------------------
+[15:22:45] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 11
+7937
+0
+512
+????
+--------------------
+[15:22:45] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 12
+7907
+0
+512
+????
+--------------------
+[15:22:45] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 13
+7771
+0
+512
+????
+--------------------
+[15:22:45] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 14
+7649
+0
+512
+????
+--------------------
+[15:22:45] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 15
+8050
+0
+512
+????
+--------------------
+[15:22:45] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 16
+7458
+0
+512
+????
+--------------------
+[15:22:46] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 17
+7787
+0
+512
+????
+--------------------
+[15:22:46] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 18
+7824
+0
+512
+????
+--------------------
+[15:22:46] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 19
+7741
+0
+512
+????
+--------------------
+[15:22:46] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 0
+7941
+0
+512
+????
+--------------------
+[15:22:46] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 1
+7302
+0
+512
+????
+--------------------
+[15:22:46] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 2
+7742
+0
+512
+????
+--------------------
+[15:22:46] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 3
+7893
+0
+512
+????
+--------------------
+[15:22:46] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 4
+7264
+0
+512
+????
+--------------------
+[15:22:47] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 5
+8105
+0
+512
+????
+--------------------
+[15:22:47] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 6
+8589
+0
+512
+????
+--------------------
+[15:22:47] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 7
+8288
+0
+512
+????
+--------------------
+[15:22:47] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 8
+7988
+0
+512
+????
+--------------------
+[15:22:47] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 9
+8132
+0
+512
+????
+--------------------
+[15:22:47] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 10
+7855
+0
+512
+????
+--------------------
+[15:22:47] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 11
+7937
+0
+512
+????
+--------------------
+[15:22:47] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 11
+7937
+1536
+512
+??E3MmI;
+???y??x?(???j??q????s??i<???M1?*&???w???p?A\6???0??Z?kI????-??ih???????w?Z?1n?"?p???MY?Ts?t???Tayb3?????ZA????'??3????T@B??Jv�`??q?=/???|?0?pA?}??84X??D????*???<[1?Ch???01???Y?G?&??*??@X|????t}??T?h??i?a!\??by?,?9?J'L?9??Cb??-???X|???cmu??h?~?59l?
+--------------------
+[15:22:47] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 12
+7907
+0
+512
+????
+--------------------
+[15:22:48] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 13
+7771
+0
+512
+????
+--------------------
+[15:22:48] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 14
+7649
+0
+512
+????
+--------------------
+[15:22:48] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 15
+8050
+0
+512
+????
+--------------------
+[15:22:48] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 16
+7458
+0
+512
+????
+--------------------
+[15:22:48] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 17
+7787
+0
+512
+????
+--------------------
+[15:22:48] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 18
+7824
+0
+512
+????
+--------------------
+[15:22:48] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 19
+7741
+0
+512
+????
+--------------------
+[15:22:48] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 0
+7941
+0
+512
+????
+--------------------
+[15:22:48] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 1
+7302
+0
+512
+????
+--------------------
+[15:22:49] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 1
+7302
+2048
+512
+???@C
+--------------------
+[15:22:49] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 2
+7742
+0
+512
+????
+--------------------
+[15:22:49] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 3
+7893
+0
+512
+????
+--------------------
+[15:22:49] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 3
+7893
+3072
+512
+???4?b
+?"c?L?+???>s
+?]2??T????o6?
+N@??A1????????OkwE?????C]?J?	9?E? ?c?{r?t?z??^Z???a??Fl~w?W?~@)?D?8?o???h??#?/?>CVr?rF
+0?~??Ke???'??7??)??
+--------------------
+[15:22:49] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 4
+7264
+0
+512
+????
+--------------------
+[15:22:49] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 5
+8105
+0
+512
+????
+--------------------
+[15:22:49] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 6
+8589
+0
+512
+????
+--------------------
+[15:22:49] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 7
+8288
+0
+512
+????
+--------------------
+[15:22:49] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 8
+7988
+0
+512
+????
+--------------------
+[15:22:49] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 8
+7988
+1024
+512
+???
+--------------------
+[15:22:49] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 9
+8132
+0
+512
+????
+--------------------
+[15:22:50] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 9
+8132
+1024
+512
+?5??#?????J??h?w?????'?=?????S?
+e#J???]?? '?y??8?c??gp?~??CT-
+EL????????w?2)w^??PQ??iLJk(=?????c?
+--------------------
+[15:22:50] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 10
+7855
+0
+512
+????
+--------------------
+[15:22:50] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 11
+7937
+0
+512
+????
+--------------------
+[15:22:50] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 12
+7907
+0
+512
+????
+--------------------
+[15:22:50] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 13
+7771
+0
+512
+????
+--------------------
+[15:22:50] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 14
+7649
+0
+512
+????
+--------------------
+[15:22:50] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 15
+8050
+0
+512
+????
+--------------------
+[15:22:50] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 16
+7458
+0
+512
+????
+--------------------
+[15:22:51] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 17
+7787
+0
+512
+????
+--------------------
+[15:22:51] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 18
+7824
+0
+512
+????
+--------------------
+[15:22:51] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 19
+7741
+0
+512
+????
+--------------------
+[15:22:51] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 0
+7941
+0
+512
+????
+--------------------
+[15:22:51] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 1
+7302
+0
+512
+????
+--------------------
+[15:22:51] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 2
+7742
+0
+512
+????
+--------------------
+[15:22:51] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 3
+7893
+0
+512
+????
+--------------------
+[15:22:52] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 4
+7264
+0
+512
+????
+--------------------
+[15:22:52] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 5
+8105
+0
+512
+????
+--------------------
+[15:22:52] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 6
+8589
+0
+512
+????
+--------------------
+[15:22:52] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 7
+8288
+0
+512
+????
+--------------------
+[15:22:52] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 8
+7988
+0
+512
+????
+--------------------
+[15:22:52] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 9
+8132
+0
+512
+????
+--------------------
+[15:22:52] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 10
+7855
+0
+512
+????
+--------------------
+[15:22:52] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 11
+7937
+0
+512
+????
+--------------------
+[15:22:53] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 12
+7907
+0
+512
+????
+--------------------
+[15:22:53] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 13
+7771
+0
+512
+????
+--------------------
+[15:22:53] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 14
+7649
+0
+512
+????
+--------------------
+[15:22:53] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 15
+8050
+0
+512
+????
+--------------------
+[15:22:53] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 16
+7458
+0
+512
+????
+--------------------
+[15:22:53] #UDP_PUSH(id=92) : The client 127.0.0.1:34043 sent a first query ( 17
+7787
+0
+512
+????
+--------------------
+ ~~~~~~ 
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:23:24
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:23:40
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:23:51
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:23:54
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:24:04
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:24:22
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:25:44
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:26:03
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:26:31
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:27:06
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:28:10
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:38:04
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:40:05
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:40:37
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:41:42
+             ///////////////////////////
+
+[15:41:43] #MainServer : The flux have been imported and the catalogue generated !
+--------------------
+[15:41:43] #MainServer : Hooray ! Server succesfuly created at 127.0.0.1:4242
+--------------------
+[15:41:55] #MainServer : New client connected to the server. Address : 127.0.0.1:59270
+--------------------
+[15:42:37] #MainServer : Couldn't transmit data to 127.0.0.1:59270. Shutting down.
+--------------------
+[15:42:37] #MainServer : MainServer connection with 127.0.0.1:59270 ended.
+--------------------
+ ~~~~~~ 
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:45:03
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 15:55:06
+             ///////////////////////////
+
+
+            ///////////////////////////
+            Date : mercredi 13. février 2013 | Time: 16:03:25
+             ///////////////////////////
+

@@ -1,0 +1,29 @@
+ID: 7
+Name: Psychedelic
+Type: JPG
+Address: 127.0.0.1
+Port: 12253
+Protocol: UDP_PULL
+IPS: 18
+./images/landscape/0001.jpg
+./images/landscape/0002.jpg
+./images/landscape/0003.jpg
+./images/landscape/0004.jpg
+./images/landscape/0005.jpg
+./images/landscape/0006.jpg
+./images/landscape/0007.jpg
+./images/landscape/0008.jpg
+./images/landscape/0009.jpg
+./images/landscape/0011.jpg
+./images/landscape/0012.jpg
+./images/landscape/0013.jpg
+./images/landscape/0014.jpg
+./images/landscape/0015.jpg
+./images/landscape/0016.jpg
+./images/landscape/0017.jpg
+./images/landscape/0018.jpg
+./images/landscape/0019.jpg
+./images/landscape/0020.jpg
+./images/landscape/0021.jpg
+./images/landscape/0022.jpg
+./images/landscape/0023.jpg

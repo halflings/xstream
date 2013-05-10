@@ -1,0 +1,63 @@
+ID: 1
+Name: GhostBusters
+Type: GIF
+Address: 127.0.0.1
+Port: 12242
+Protocol: UDP_PULL
+IPS: 12
+./images/ghostbuster/frame_0.gif
+./images/ghostbuster/frame_1.gif
+./images/ghostbuster/frame_2.gif
+./images/ghostbuster/frame_3.gif
+./images/ghostbuster/frame_4.gif
+./images/ghostbuster/frame_5.gif
+./images/ghostbuster/frame_6.gif
+./images/ghostbuster/frame_7.gif
+./images/ghostbuster/frame_8.gif
+./images/ghostbuster/frame_9.gif
+./images/ghostbuster/frame_10.gif
+./images/ghostbuster/frame_11.gif
+./images/ghostbuster/frame_12.gif
+./images/ghostbuster/frame_13.gif
+./images/ghostbuster/frame_14.gif
+./images/ghostbuster/frame_15.gif
+./images/ghostbuster/frame_16.gif
+./images/ghostbuster/frame_17.gif
+./images/ghostbuster/frame_18.gif
+./images/ghostbuster/frame_19.gif
+./images/ghostbuster/frame_20.gif
+./images/ghostbuster/frame_21.gif
+./images/ghostbuster/frame_22.gif
+./images/ghostbuster/frame_23.gif
+./images/ghostbuster/frame_24.gif
+./images/ghostbuster/frame_25.gif
+./images/ghostbuster/frame_26.gif
+./images/ghostbuster/frame_27.gif
+./images/ghostbuster/frame_28.gif
+./images/ghostbuster/frame_29.gif
+./images/ghostbuster/frame_30.gif
+./images/ghostbuster/frame_31.gif
+./images/ghostbuster/frame_32.gif
+./images/ghostbuster/frame_33.gif
+./images/ghostbuster/frame_34.gif
+./images/ghostbuster/frame_35.gif
+./images/ghostbuster/frame_36.gif
+./images/ghostbuster/frame_37.gif
+./images/ghostbuster/frame_38.gif
+./images/ghostbuster/frame_39.gif
+./images/ghostbuster/frame_40.gif
+./images/ghostbuster/frame_41.gif
+./images/ghostbuster/frame_42.gif
+./images/ghostbuster/frame_43.gif
+./images/ghostbuster/frame_44.gif
+./images/ghostbuster/frame_45.gif
+./images/ghostbuster/frame_46.gif
+./images/ghostbuster/frame_47.gif
+./images/ghostbuster/frame_48.gif
+./images/ghostbuster/frame_49.gif
+./images/ghostbuster/frame_50.gif
+./images/ghostbuster/frame_51.gif
+./images/ghostbuster/frame_52.gif
+./images/ghostbuster/frame_53.gif
+./images/ghostbuster/frame_54.gif
+./images/ghostbuster/frame_55.gif

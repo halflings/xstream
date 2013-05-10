@@ -1,0 +1,27 @@
+ID: 92
+Name: Valid1
+Type: JPEG
+Address: 127.0.0.1
+Port: 9078
+Protocol: TCP_PUSH
+IPS: 8
+Stream1\Img0001.JPEG
+Stream1\Img0002.JPEG
+Stream1\Img0003.JPEG
+Stream1\Img0004.JPEG
+Stream1\Img0005.JPEG
+Stream1\Img0006.JPEG
+Stream1\Img0007.JPEG
+Stream1\Img0008.JPEG
+Stream1\Img0009.JPEG
+Stream1\Img0010.JPEG
+Stream1\Img0011.JPEG
+Stream1\Img0012.JPEG
+Stream1\Img0013.JPEG
+Stream1\Img0014.JPEG
+Stream1\Img0015.JPEG
+Stream1\Img0016.JPEG
+Stream1\Img0017.JPEG
+Stream1\Img0018.JPEG
+Stream1\Img0019.JPEG
+Stream1\Img0020.JPEG

@@ -1,0 +1,12 @@
+ID: 8
+Name: Dummy1
+Type: BMP
+Address: 127.0.0.1
+Port: 8088
+Protocol: TCP_PUSH
+IPS: 1.5
+./images/img1.bmp
+./images/img2.bmp
+./images/img3.bmp
+./images/img4.bmp
+./images/img5.bmp

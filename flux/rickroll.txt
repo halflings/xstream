@@ -1,0 +1,61 @@
+ID: 6
+Name: ItsATrap
+Type: GIF
+Address: 127.0.0.1
+Port: 11381
+Protocol: UDP_PUSH
+IPS: 12
+./images/rickroll/frame_0.gif
+./images/rickroll/frame_1.gif
+./images/rickroll/frame_2.gif
+./images/rickroll/frame_3.gif
+./images/rickroll/frame_4.gif
+./images/rickroll/frame_5.gif
+./images/rickroll/frame_6.gif
+./images/rickroll/frame_7.gif
+./images/rickroll/frame_8.gif
+./images/rickroll/frame_9.gif
+./images/rickroll/frame_10.gif
+./images/rickroll/frame_11.gif
+./images/rickroll/frame_12.gif
+./images/rickroll/frame_13.gif
+./images/rickroll/frame_14.gif
+./images/rickroll/frame_15.gif
+./images/rickroll/frame_16.gif
+./images/rickroll/frame_17.gif
+./images/rickroll/frame_18.gif
+./images/rickroll/frame_19.gif
+./images/rickroll/frame_20.gif
+./images/rickroll/frame_21.gif
+./images/rickroll/frame_22.gif
+./images/rickroll/frame_23.gif
+./images/rickroll/frame_24.gif
+./images/rickroll/frame_25.gif
+./images/rickroll/frame_26.gif
+./images/rickroll/frame_27.gif
+./images/rickroll/frame_28.gif
+./images/rickroll/frame_29.gif
+./images/rickroll/frame_30.gif
+./images/rickroll/frame_31.gif
+./images/rickroll/frame_32.gif
+./images/rickroll/frame_33.gif
+./images/rickroll/frame_34.gif
+./images/rickroll/frame_35.gif
+./images/rickroll/frame_36.gif
+./images/rickroll/frame_37.gif
+./images/rickroll/frame_38.gif
+./images/rickroll/frame_39.gif
+./images/rickroll/frame_40.gif
+./images/rickroll/frame_41.gif
+./images/rickroll/frame_42.gif
+./images/rickroll/frame_43.gif
+./images/rickroll/frame_44.gif
+./images/rickroll/frame_45.gif
+./images/rickroll/frame_46.gif
+./images/rickroll/frame_47.gif
+./images/rickroll/frame_48.gif
+./images/rickroll/frame_49.gif
+./images/rickroll/frame_50.gif
+./images/rickroll/frame_51.gif
+./images/rickroll/frame_52.gif
+./images/rickroll/frame_53.gif

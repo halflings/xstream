@@ -1,0 +1,12 @@
+ID: 12
+Name: Dummy5
+Type: BMP
+Address: 127.0.0.1
+Port: 11114
+Protocol: UDP_PULL
+IPS: 0.25
+./images/img1.bmp
+./images/img2.bmp
+./images/img3.bmp
+./images/img4.bmp
+./images/img5.bmp

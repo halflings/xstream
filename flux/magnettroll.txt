@@ -1,0 +1,24 @@
+ID: 5
+Name: EndlessEnergy
+Type: GIF
+Address: 225.6.6.9
+Port: 12238
+Protocol: MCAST_PUSH
+IPS: 15
+./images/magnettroll/frame_0.gif
+./images/magnettroll/frame_1.gif
+./images/magnettroll/frame_2.gif
+./images/magnettroll/frame_3.gif
+./images/magnettroll/frame_4.gif
+./images/magnettroll/frame_5.gif
+./images/magnettroll/frame_6.gif
+./images/magnettroll/frame_7.gif
+./images/magnettroll/frame_8.gif
+./images/magnettroll/frame_9.gif
+./images/magnettroll/frame_10.gif
+./images/magnettroll/frame_11.gif
+./images/magnettroll/frame_12.gif
+./images/magnettroll/frame_13.gif
+./images/magnettroll/frame_14.gif
+./images/magnettroll/frame_15.gif
+./images/magnettroll/frame_16.gif
